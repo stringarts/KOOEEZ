@@ -44,21 +44,21 @@
 			<tr>
 				<td></td>
 				<td>Emel :</td>
-				<td><input type="text" name="emel" required></td>
+				<td><input type="text" name="Email" required></td>
 				<td></td>
 			</tr>
 			<tr>
 				<td></td>
 				<td>Kata Laluan : </td>
-				<td><input type="password" name="katalaluan" required></td>
+				<td><input type="password" name="Password" required></td>
 				<td></td>
 			</tr>
 
 			<tr>
 				<td></td>
 				<td>Kategori :</td>
-				<td><input type="radio" name="kategori" value="G">Guru
-					<input type="radio" name="kategori" value="M">Murid
+				<td><input type="radio" name="kategori" value="M">MEP
+					<input type="radio" name="kategori" value="S">Student
 				</td>
 					<td></td>
 
@@ -66,7 +66,7 @@
 			<tr>
 			<td></td>
 			<td></td>
-			<td><input type = "submit" name="loginBtn" value="Log Masuk"></td>
+			<td><input type = "submit" name="loginBtn" value="Login"></td>
 				<td></td>
 			</tr>
 			<tr>
